@@ -1,4 +1,6 @@
-# Logs
+# VS-CODE
+.vscode/*
+
 logs
 *.log
 npm-debug.log*
